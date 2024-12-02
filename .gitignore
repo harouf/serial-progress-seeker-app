@@ -1,0 +1,69 @@
+# Build Folders
+bin/
+obj/
+out/
+Debug/
+Release/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.tmp
+*.log
+*.vs/
+.vscode/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Rider and ReSharper
+.idea/
+*.sln.iml
+*.dotsettings.user
+
+# Visual Studio Code workspace settings
+*.code-workspace
+
+# Mac-specific files
+*.DS_Store
+
+# ASP.NET Secrets
+*.secrets.json
+secrets.json
+
+# Package management
+.nuget/
+*.nupkg
+*.snupkg
+packages/
+
+# Build output
+project.lock.json
+project.fragment.lock.json
+artifacts/
+generated/
+
+# Visual Studio 2019 (shared) projects
+.vs/
+
+# Dotnet SDK generated
+wwwroot/
+
+# Entity Framework Migrations
+*.Designer.cs
+Migrations/
+
+# Logs
+logs/
+*.log
+
+# Runtime-generated files
+*.pid
+*.pdb
+*.cache
+*.lock
+*.gz
